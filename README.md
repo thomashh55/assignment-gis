@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: `Providing map outlook for joggers to solve some problems during jogging(smog, need of resreshment, bad terrain, lack of places of interest, jogging on car roads)`
 
-**Data source**: `<fill in>`
+**Data source**: `data on osm schema tranformed from pbf format from mapnik`
 
-**Technologies used**: `<fill in>`
+**Technologies used**: `javascript, PHP, mapbox API, postgres`
